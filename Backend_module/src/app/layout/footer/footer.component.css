@@ -1,0 +1,16 @@
+footer{
+    height:130px;
+    padding:15px;
+    background-color: var(--navbar-footer-color);
+    /* margin-top: 85vh; */
+
+}
+
+.site-logo{
+     text-align: center;
+    font-size: 1.2em;
+}
+
+.nav-link{
+    color:var(--primary-color);
+}
